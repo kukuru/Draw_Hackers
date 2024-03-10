@@ -2,7 +2,6 @@ package com.example.draw_hackers
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.activity.viewModels
 import com.example.draw_hackers.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
